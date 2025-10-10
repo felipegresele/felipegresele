@@ -50,7 +50,7 @@ Sou apaixonado por construir soluções completas, do Front-End ao Back-End. Alg
 
 ---
 
-## 🌐 Conecte-se comigo!
+## 🌐 Minhas Redes!
 
 - [LinkedIn](https://www.linkedin.com/in/felipegresele)
 - [Twitter](https://twitter.com/felipegresele)
