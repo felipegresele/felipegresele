@@ -52,6 +52,6 @@ Sou apaixonado por construir soluções completas, do Front-End ao Back-End. Alg
 
 ## 🌐 Minhas Redes!
 
-- [LinkedIn]([https://www.linkedin.com/in/felipegresele](https://www.linkedin.com/in/felipe-gresele-3065a72a3/])
-- [Portifólio Pessoal]([https://felipegresele-portifolio.netlify.app/])
+- LinkedIn - [https://www.linkedin.com/in/felipegresele](https://www.linkedin.com/in/felipe-gresele-3065a72a3/
+- Portifólio Pessoal - [https://felipegresele-portifolio.netlify.app/
 
