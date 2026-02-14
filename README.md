@@ -2,7 +2,7 @@
 
 ## 🎓 Formação
 
-**Estudante de Análise e Desenvolvimento de Sistemas** na **FIAP**. Focado em **desenvolvimento Full Stack**, com especialização em **Java** para Back-End e **TypeScript** para Front-End. Também tenho experiência com **React**, **Next.js**, **SQL**, **PL/SQL** e outras tecnologias.
+**Estudante de Análise e Desenvolvimento de Sistemas** na **FIAP**. Focado em **desenvolvimento Full Stack**, com especialização em **Java** para Back-End e **React** para Front-End. Também tenho experiência com **React**, **Next.js**, **SQL**, **PL/SQL** e outras tecnologias.
 
 ---
 
